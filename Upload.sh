@@ -1,5 +1,5 @@
 #!/bin/bash
-cd /home/pipenooyimsai/Documents/Project_WPS-NS
+cd /home/pipenooyimsai/Documents/Project_WPNS-IoT
 
 git add .
 
